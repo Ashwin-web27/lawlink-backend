@@ -45,7 +45,7 @@ app = FastAPI(
 # Add CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://law.skyzin.com", "https://law.skyzin.com", "https://llm.skyzin.com", "https://llm.skyzin.com"],  # React frontend
+    allow_origins=["https://lawlink.skyzin.com", "https://lawlink.skyzin.com", "https://llm.skyzin.com", "https://llm.skyzin.com"],  # React frontend
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

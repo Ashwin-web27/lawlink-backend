@@ -39,7 +39,7 @@ npm install
 npm run dev
 ```
 
-Default local URL: `https://law.skyzin.com`
+Default local URL: `https://lawlink.skyzin.com`
 
 ---
 

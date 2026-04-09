@@ -77,11 +77,11 @@ npm install
 npm run dev
 ```
 
-The frontend will run on **https://law.skyzin.com**
+The frontend will run on **https://lawlink.skyzin.com**
 
 ### Step 4: Test the Chatbot
 
-1. Navigate to: https://law.skyzin.com/user/chatbot
+1. Navigate to: https://lawlink.skyzin.com/user/chatbot
 2. Ask a legal question, for example:
    - "What is Article 21?"
    - "Tell me about the Right to Education Act"
@@ -229,8 +229,8 @@ python run_system.py --action setup
 ### Issue: CORS Errors
 
 **Solution:**
-The FastAPI backend already has CORS configured for `https://law.skyzin.com`. If you see CORS errors:
-1. Check `backend/src/api/main.py` - CORS middleware should allow `https://law.skyzin.com`
+The FastAPI backend already has CORS configured for `https://lawlink.skyzin.com`. If you see CORS errors:
+1. Check `backend/src/api/main.py` - CORS middleware should allow `https://lawlink.skyzin.com`
 2. Restart the FastAPI server
 
 ---

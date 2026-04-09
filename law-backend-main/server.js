@@ -21,7 +21,7 @@ const httpServer = createServer(app);
 
 const io = new Server(httpServer, {
   cors: {
-    origin: "https://law.skyzin.com",
+    origin: "https://lawlink.skyzin.com",
     methods: ["GET", "POST"],
     credentials: true,
   },
@@ -108,7 +108,7 @@ app.use(express.urlencoded({ extended: true }));
 // CORS FIX
 // --------------------
 app.use(cors({
-  origin: "https://law.skyzin.com",
+  origin: "https://lawlink.skyzin.com",
   methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS", "PATCH"],
   allowedHeaders: ["Content-Type", "Authorization"],
   credentials: true
