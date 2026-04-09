@@ -1,0 +1,150 @@
+# ===== DATASET GITIGNORE =====
+# This gitignore manages AI/ML data files and artifacts
+
+# ===== VECTOR DATABASES & INDEXES =====
+# FAISS index files (regeneratable from source documents)
+vector-database/*.index
+vector-database/*.bin
+vector-database/*.faiss
+vector-database/legal_docs_index.*
+vector-database/embeddings_*
+vector-database/metadata_*
+
+# ===== TRAINED MODELS =====
+# Large AI model files (regeneratable)
+models/fine_tuned_*
+models/*.pt
+models/*.pth
+models/*.bin
+models/*.safetensors
+models/*.h5
+models/*.hdf5
+models/*.pkl
+models/*.pickle
+models/*.joblib
+models/*.model
+models/checkpoints/
+
+# Model training artifacts
+models/training_logs/
+models/tensorboard_logs/
+models/wandb/
+
+# ===== PROCESSED DATA =====
+# Large processed data files (regeneratable from source JSON)
+processed-data/processed_legal_docs.json
+processed-data/embeddings_cache/
+processed-data/vector_cache/
+processed-data/*.npy
+processed-data/*.npz
+processed-data/chunks_*
+
+# ===== TRAINING DATA =====
+# Generated training files (can be regenerated)
+training-data/embeddings/*.npy
+training-data/embeddings/*.npz
+training-data/embeddings/vectors_*
+training-data/processed-chunks/
+training-data/qa-pairs/generated_*
+training-data/synthetic_*
+
+# Large training datasets
+training-data/batched_*
+training-data/train_*.json
+training-data/val_*.json
+training-data/test_*.json
+
+# ===== KEEP SOURCE DOCUMENTS =====
+# IMPORTANT: Keep original JSON legal documents
+# These are your valuable source data
+# !legal-documents/*.json
+# !legal-documents/**/*.json
+
+# But ignore any backup or temporary versions
+legal-documents/*.backup
+legal-documents/*.tmp
+legal-documents/*_temp.json
+legal-documents/backup_*
+
+# ===== CACHE & TEMPORARY FILES =====
+# Cache directories
+.cache/
+cache/
+*.cache
+
+# Temporary processing files
+*.tmp
+*.temp
+temp_*
+tmp_*
+
+# Lock files
+*.lock
+.processing_lock
+
+# ===== LOGS =====
+# Processing logs
+*.log
+logs/
+processing.log
+indexing.log
+training.log
+
+# ===== ANALYSIS & EXPERIMENTS =====
+# Jupyter notebooks with outputs
+*.ipynb_checkpoints/
+analysis/*.ipynb
+experiments/
+notebooks/
+
+# Experimental data
+exp_*
+experiment_*
+test_outputs/
+demo_outputs/
+
+# ===== STATISTICS & REPORTS =====
+# Generated reports (can be regenerated)
+stats/
+reports/
+metrics/
+*.csv
+*.xlsx
+*.pdf
+
+# ===== OS & EDITOR FILES =====
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ===== ARCHIVES =====
+# Compressed files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# ===== NOTES =====
+# What this preserves:
+# - Source JSON legal documents (your valuable data)
+# - Configuration files (config.json, README.md)
+# - Documentation
+#
+# What this ignores:
+# - Large regeneratable AI models and indexes
+# - Processed/cached data (can be regenerated)
+# - Training artifacts and logs
+# - OS and editor temporary files

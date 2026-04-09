@@ -1,0 +1,159 @@
+{
+  "dataset_config": {
+    "version": "1.0.0",
+    "last_updated": "2024-01-01",
+    "description": "Indian Education Law Dataset Configuration",
+    
+    "data_sources": {
+      "government_portals": [
+        "https://www.education.gov.in/",
+        "https://www.ugc.gov.in/",
+        "https://www.cbse.gov.in/",
+        "https://www.aicte-india.org/",
+        "https://ncte.gov.in/"
+      ],
+      "legal_databases": [
+        "Supreme Court of India",
+        "High Courts",
+        "Central Administrative Tribunal"
+      ]
+    },
+    
+    "document_categories": {
+      "acts": {
+        "description": "Primary legislation related to education",
+        "priority": 1,
+        "examples": ["RTE Act 2009", "UGC Act 1956"]
+      },
+      "rules": {
+        "description": "Rules and regulations under various acts",
+        "priority": 2,
+        "examples": ["UGC Regulations", "CBSE Rules"]
+      },
+      "judgments": {
+        "description": "Court judgments and legal precedents",
+        "priority": 3,
+        "examples": ["Supreme Court cases", "High Court orders"]
+      },
+      "circulars": {
+        "description": "Government circulars and notifications",
+        "priority": 4,
+        "examples": ["Ministry notifications", "UGC circulars"]
+      },
+      "guidelines": {
+        "description": "Policy guidelines and frameworks",
+        "priority": 5,
+        "examples": ["NEP 2020", "Assessment guidelines"]
+      }
+    },
+    
+    "processing_settings": {
+      "text_extraction": {
+        "ocr_confidence_threshold": 0.95,
+        "preserve_formatting": true,
+        "extract_tables": true,
+        "extract_images": false
+      },
+      "chunking": {
+        "strategy": "semantic",
+        "chunk_size": 1000,
+        "chunk_overlap": 200,
+        "respect_section_boundaries": true
+      },
+      "embedding": {
+        "model": "all-MiniLM-L6-v2",
+        "dimension": 384,
+        "normalize": true
+      }
+    },
+    
+    "legal_citation_patterns": {
+      "acts": [
+        "Section \\d+",
+        "Chapter \\d+",
+        "Article \\d+[A-Z]?"
+      ],
+      "cases": [
+        "\\d{4} \\w+ \\d+",
+        "AIR \\d{4} \\w+ \\d+",
+        "\\(\\d{4}\\) \\d+ SCC \\d+"
+      ]
+    },
+    
+    "quality_thresholds": {
+      "ocr_accuracy": 0.99,
+      "citation_coverage": 0.95,
+      "semantic_coherence": 0.85
+    },
+    
+    "metadata_schema": {
+      "required_fields": [
+        "document_id",
+        "title",
+        "category",
+        "authority",
+        "status",
+        "language"
+      ],
+      "optional_fields": [
+        "year",
+        "sections",
+        "amendments",
+        "superseded_by",
+        "related_documents"
+      ]
+    }
+  },
+  
+  "training_config": {
+    "qa_generation": {
+      "min_questions_per_document": 5,
+      "max_questions_per_document": 20,
+      "question_types": [
+        "factual",
+        "procedural", 
+        "interpretive",
+        "compliance"
+      ]
+    },
+    
+    "validation_split": 0.15,
+    "test_split": 0.15,
+    "random_seed": 42
+  },
+  
+  "retrieval_config": {
+    "vector_database": {
+      "type": "faiss",
+      "index_type": "IVF",
+      "nlist": 100,
+      "nprobe": 10
+    },
+    
+    "search_settings": {
+      "top_k": 10,
+      "similarity_threshold": 0.7,
+      "rerank": true
+    }
+  },
+  
+  "api_config": {
+    "rate_limits": {
+      "requests_per_minute": 60,
+      "requests_per_hour": 1000
+    },
+    
+    "response_format": {
+      "include_citations": true,
+      "max_response_length": 2000,
+      "include_disclaimer": true
+    }
+  },
+  
+  "legal_compliance": {
+    "data_retention_days": 365,
+    "anonymization_required": true,
+    "audit_logging": true,
+    "encryption_at_rest": true
+  }
+}

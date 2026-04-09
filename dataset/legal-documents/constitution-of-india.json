@@ -1,0 +1,330 @@
+{
+  "dataset_name": "Constitution of India",
+  "description": "Complete dataset of Indian Constitution including Articles, Fundamental Rights, Preamble, and Directive Principles",
+  "last_updated": "2025-01-20",
+  "parts": {
+    "preamble": {
+      "title": "Preamble to the Constitution of India",
+      "text": "WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship; EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation; IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.",
+      "keywords": ["sovereignty", "socialism", "secularism", "democracy", "republic", "justice", "liberty", "equality", "fraternity"]
+    },
+    "part_i_union_and_territory": {
+      "title": "Part I - The Union and its Territory (Articles 1-4)",
+      "articles": {
+        "Article 1": {
+          "title": "Name and territory of the Union",
+          "content": "India, that is Bharat, shall be a Union of States. The territory of India shall comprise: (a) the territories of the States; (b) the Union territories specified in the First Schedule; and (c) such other territories as may be acquired."
+        },
+        "Article 2": {
+          "title": "Admission or establishment of new States",
+          "content": "Parliament may by law admit into the Union, or establish, new States on such terms and conditions as it thinks fit."
+        },
+        "Article 2A": {
+          "title": "Sikkim to be associated with the Union",
+          "content": "Sikkim shall be associated with the Union and provisions of this Constitution shall apply in relation to that State subject to such modifications and adaptations as the President may by order specify."
+        },
+        "Article 3": {
+          "title": "Formation of new States and alteration of areas, boundaries or names of existing States",
+          "content": "Parliament may by law: (a) form a new State by separation of territory from any State or by uniting two or more States or parts of States or by uniting any territory to a part of any State; (b) increase the area of any State; (c) diminish the area of any State; (d) alter the boundaries of any State; (e) alter the name of any State."
+        },
+        "Article 4": {
+          "title": "Laws made under articles 2 and 3 to provide for amendment of the First and the Fourth Schedules",
+          "content": "Any law referred to in article 2 or article 3 shall contain such provisions for the amendment of the First Schedule and the Fourth Schedule as may be necessary to give effect to the provisions of the law and may also contain such supplemental, incidental and consequential provisions as Parliament may deem necessary."
+        }
+      }
+    },
+    "part_ii_citizenship": {
+      "title": "Part II - Citizenship (Articles 5-11)",
+      "articles": {
+        "Article 5": {
+          "title": "Citizenship at the commencement of the Constitution",
+          "content": "At the commencement of this Constitution, every person who has his domicile in the territory of India and: (a) who was born in the territory of India; or (b) either of whose parents was born in the territory of India; or (c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement, shall be a citizen of India."
+        },
+        "Article 6": {
+          "title": "Rights of citizenship of certain persons who have migrated to India from Pakistan",
+          "content": "Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if: (a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935; and (b) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration."
+        },
+        "Article 7": {
+          "title": "Rights of citizenship of certain migrants to Pakistan",
+          "content": "Notwithstanding anything in articles 5 and 6, a person who has after the first day of March, 1947, migrated from the territory of India to the territory now included in Pakistan shall not be deemed to be a citizen of India unless he has returned to the territory of India under a permit for resettlement or permanent return issued by or under the authority of any law."
+        },
+        "Article 8": {
+          "title": "Rights of citizenship of certain persons of Indian origin residing outside India",
+          "content": "Notwithstanding anything in article 5, any person who or either of whose parents or any of whose grand-parents was born in India as defined in the Government of India Act, 1935, and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing."
+        },
+        "Article 9": {
+          "title": "Persons voluntarily acquiring citizenship of a foreign State not to be citizens",
+          "content": "No person shall be a citizen of India by virtue of article 5, or be deemed to be a citizen of India by virtue of article 6 or article 8, if he has voluntarily acquired the citizenship of a foreign State."
+        },
+        "Article 10": {
+          "title": "Continuance of the rights of citizenship",
+          "content": "Every person who is or is deemed to be a citizen of India under any of the foregoing provisions of this Part shall, subject to the provisions of any law that may be made by Parliament, continue to be such citizen."
+        },
+        "Article 11": {
+          "title": "Parliament to regulate the right of citizenship by law",
+          "content": "Nothing in the foregoing provisions of this Part shall derogate from the power of Parliament to make any provision with respect to the acquisition and termination of citizenship and all other matters relating to citizenship."
+        }
+      }
+    },
+    "part_iii_fundamental_rights": {
+      "title": "Part III - Fundamental Rights (Articles 12-35)",
+      "articles": {
+        "Article 12": {
+          "title": "Definition of State",
+          "content": "In this part, unless the context otherwise requires, 'the State' includes the Government and Parliament of India and the Government and the Legislature of each of the States and all local or other authorities within the territory of India or under the control of the Government of India."
+        },
+        "Article 14": {
+          "title": "Right to Equality",
+          "content": "The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India."
+        },
+        "Article 15": {
+          "title": "Prohibition of discrimination",
+          "content": "The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them."
+        },
+        "Article 16": {
+          "title": "Equality of opportunity in public employment",
+          "content": "There shall be equality of opportunity for all citizens in matters relating to employment or appointment to any office under the State."
+        },
+        "Article 17": {
+          "title": "Abolition of Untouchability",
+          "content": "Untouchability is abolished and its practice in any form is forbidden. The enforcement of any disability arising out of Untouchability shall be an offence punishable in accordance with law."
+        },
+        "Article 19": {
+          "title": "Protection of certain rights regarding freedom of speech etc.",
+          "content": "All citizens shall have the right to (a) freedom of speech and expression; (b) to assemble peaceably and without arms; (c) to form associations or unions; (d) to move freely throughout the territory of India; (e) to reside and settle in any part of the territory of India; and (f) to practise any profession, or to carry on any occupation, trade or business."
+        },
+        "Article 20": {
+          "title": "Protection in respect of conviction for offences",
+          "content": "No person shall be convicted of any offence except for violation of a law in force at the time of the commission of the act charged as an offence, nor be subjected to a penalty greater than that which might have been inflicted under the law in force at the time of the commission of the offence."
+        },
+        "Article 21": {
+          "title": "Protection of life and personal liberty",
+          "content": "No person shall be deprived of his life or personal liberty except according to procedure established by law."
+        },
+        "Article 21A": {
+          "title": "Right to education",
+          "content": "The State shall provide free and compulsory education to all children of the age of six to fourteen years in such manner as the State may, by law, determine."
+        },
+        "Article 22": {
+          "title": "Protection against arrest and detention",
+          "content": "No person who is arrested shall be detained in custody without being informed, as soon as may be, of the grounds for such arrest nor shall he be denied the right to consult, and to be defended by, a legal practitioner of his choice."
+        },
+        "Article 23": {
+          "title": "Prohibition of traffic in human beings and forced labour",
+          "content": "Traffic in human beings and begar and other similar forms of forced labour are prohibited and any contravention of this provision shall be an offence punishable in accordance with law."
+        },
+        "Article 24": {
+          "title": "Prohibition of employment of children in factories, etc.",
+          "content": "No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment."
+        },
+        "Article 25": {
+          "title": "Freedom of conscience and free profession, practice and propagation of religion",
+          "content": "Subject to public order, morality and health and to the other provisions of this Part, all persons are equally entitled to freedom of conscience and the right freely to profess, practise and propagate religion."
+        },
+        "Article 26": {
+          "title": "Freedom to manage religious affairs",
+          "content": "Subject to public order, morality and health, every religious denomination or any section thereof shall have the right to establish and maintain institutions for religious and charitable purposes."
+        },
+        "Article 29": {
+          "title": "Protection of interests of minorities",
+          "content": "Any section of the citizens residing in the territory of India or any part thereof having a distinct language, script or culture of its own shall have the right to conserve the same."
+        },
+        "Article 30": {
+          "title": "Right of minorities to establish and administer educational institutions",
+          "content": "All minorities, whether based on religion or language, shall have the right to establish and administer educational institutions of their choice."
+        },
+        "Article 32": {
+          "title": "Right to Constitutional Remedies",
+          "content": "The right to move the Supreme Court by appropriate proceedings for the enforcement of the rights conferred in this Part is guaranteed."
+        }
+      }
+    },
+    "part_iv_directive_principles": {
+      "title": "Part IV - Directive Principles of State Policy (Articles 36-51)",
+      "articles": {
+        "Article 36": {
+          "title": "Definition of State",
+          "content": "In this Part, unless the context otherwise requires, 'the State' has the same meaning as in Part III."
+        },
+        "Article 37": {
+          "title": "Application of principles contained in this Part",
+          "content": "The provisions contained in this Part shall not be enforceable by any court, but the principles therein laid down are nevertheless fundamental in the governance of the country and it shall be the duty of the State to apply these principles in making laws."
+        },
+        "Article 38": {
+          "title": "State to secure a social order for the promotion of welfare of the people",
+          "content": "The State shall strive to promote the welfare of the people by securing and protecting as effectively as it may a social order in which justice, social, economic and political, shall inform all the institutions of the national life."
+        },
+        "Article 39": {
+          "title": "Certain principles of policy to be followed by the State",
+          "content": "The State shall, in particular, direct its policy towards securing that the citizens, men and women equally, have the right to an adequate means of livelihood."
+        },
+        "Article 40": {
+          "title": "Organisation of village panchayats",
+          "content": "The State shall take steps to organise village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self-government."
+        },
+        "Article 41": {
+          "title": "Right to work, to education and to public assistance",
+          "content": "The State shall, within the limits of its economic capacity and development, make effective provision for securing the right to work, to education and to public assistance in cases of unemployment, old age, sickness and disablement."
+        },
+        "Article 44": {
+          "title": "Uniform civil code",
+          "content": "The State shall endeavour to secure for the citizens a uniform civil code throughout the territory of India."
+        },
+        "Article 45": {
+          "title": "Provision for early childhood care and education to children below the age of six years",
+          "content": "The State shall endeavour to provide early childhood care and education for all children until they complete the age of six years."
+        },
+        "Article 46": {
+          "title": "Promotion of educational and economic interests of Scheduled Castes, Scheduled Tribes and other weaker sections",
+          "content": "The State shall promote with special care the educational and economic interests of the weaker sections of the people, and, in particular, of the Scheduled Castes and the Scheduled Tribes, and shall protect them from social injustice and all forms of exploitation."
+        },
+        "Article 47": {
+          "title": "Duty of the State to raise the level of nutrition and the standard of living and to improve public health",
+          "content": "The State shall regard the raising of the level of nutrition and the standard of living of its people and the improvement of public health as among its primary duties."
+        },
+        "Article 48": {
+          "title": "Organisation of agriculture and animal husbandry",
+          "content": "The State shall endeavour to organise agriculture and animal husbandry on modern and scientific lines and shall, in particular, take steps for preserving and improving the breeds, and prohibiting the slaughter, of cows and calves and other milch and draught cattle."
+        },
+        "Article 48A": {
+          "title": "Protection and improvement of environment and safeguarding of forests and wild life",
+          "content": "The State shall endeavour to protect and improve the environment and to safeguard the forests and wild life of the country."
+        }
+      }
+    },
+    "part_v_union_government": {
+      "title": "Part V - The Union (Articles 52-151)",
+      "articles": {
+      "Article 1": {
+        "title": "Name and territory of the Union",
+        "content": "India, that is Bharat, shall be a Union of States."
+      },
+      "Article 2": {
+        "title": "Admission or establishment of new States",
+        "content": "Parliament may by law admit into the Union, or establish, new States on such terms and conditions as it thinks fit."
+      },
+      "Article 3": {
+        "title": "Formation of new States and alteration of areas, boundaries or names of existing States",
+        "content": "Parliament may by law form a new State by separation of territory from any State or by uniting two or more States or parts of States or by uniting any territory to a part of any State."
+      },
+      "Article 52": {
+        "title": "The President of India",
+        "content": "There shall be a President of India."
+      },
+      "Article 53": {
+        "title": "Executive power of the Union",
+        "content": "The executive power of the Union shall be vested in the President and shall be exercised by him either directly or through officers subordinate to him in accordance with this Constitution."
+      },
+      "Article 54": {
+        "title": "Election of President",
+        "content": "The President shall be elected by the members of an electoral college consisting of the elected members of both Houses of Parliament and the elected members of the Legislative Assemblies of the States."
+      },
+      "Article 72": {
+        "title": "Power of President to grant pardons, etc.",
+        "content": "The President shall have the power to grant pardons, reprieves, respites or remissions of punishment or to suspend, remit or commute the sentence of any person convicted of any offence."
+      },
+      "Article 74": {
+        "title": "Council of Ministers to aid and advise President",
+        "content": "There shall be a Council of Ministers with the Prime Minister at the head to aid and advise the President who shall, in the exercise of his functions, act in accordance with such advice."
+      },
+      "Article 75": {
+        "title": "Other provisions as to Ministers",
+        "content": "The Prime Minister shall be appointed by the President and the other Ministers shall be appointed by the President on the advice of the Prime Minister."
+      },
+      "Article 76": {
+        "title": "Attorney-General for India",
+        "content": "The President shall appoint a person who is qualified to be appointed a Judge of the Supreme Court to be Attorney-General for India."
+      },
+      "Article 110": {
+        "title": "Definition of Money Bills",
+        "content": "For the purposes of this Chapter, a Bill shall be deemed to be a Money Bill if it contains only provisions dealing with all or any of the following matters, namely: the imposition, abolition, remission, alteration or regulation of any tax."
+      },
+      "Article 124": {
+        "title": "Establishment and constitution of Supreme Court",
+        "content": "There shall be a Supreme Court of India consisting of a Chief Justice of India and, until Parliament by law prescribes a larger number, of not more than seven other Judges."
+      },
+      "Article 131": {
+        "title": "Original jurisdiction of the Supreme Court",
+        "content": "Subject to the provisions of this Constitution, the Supreme Court shall, to the exclusion of any other court, have original jurisdiction in any dispute between the Government of India and one or more States."
+      },
+      "Article 136": {
+        "title": "Special leave to appeal by the Supreme Court",
+        "content": "Notwithstanding anything in this Chapter, the Supreme Court may, in its discretion, grant special leave to appeal from any judgment, decree, determination, sentence or order in any cause or matter passed or made by any court or tribunal in the territory of India."
+      },
+      "Article 226": {
+        "title": "Power of High Courts to issue writs",
+        "content": "Notwithstanding anything in article 32 every High Court shall have power, throughout the territories in relation to which it exercises jurisdiction, to issue to any person or authority, including in appropriate cases, any Government, within those territories directions, orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, certiorari and quo-warranto, or any of them, for the enforcement of any of the rights conferred by Part III and for any other purpose."
+      },
+      "Article 356": {
+        "title": "Provisions in case of failure of constitutional machinery in States",
+        "content": "If the President, on receipt of report from the Governor of the State or otherwise, is satisfied that a situation has arisen in which the government of the State cannot be carried on in accordance with the provisions of this Constitution, the President may by Proclamation assume to himself all or any of the functions of the Government of the State."
+      },
+      "Article 368": {
+        "title": "Power of Parliament to amend the Constitution and procedure therefor",
+        "content": "Parliament may in exercise of its constituent power amend by way of addition, variation or repeal any provision of this Constitution in accordance with the procedure laid down in this article."
+      },
+      "Article 370": {
+        "title": "Temporary provisions with respect to the State of Jammu and Kashmir",
+        "content": "Notwithstanding anything in this Constitution, the provisions of article 238 shall not apply in relation to the State of Jammu and Kashmir."
+      }
+    }
+    },
+    "part_xi_relations_between_union_and_states": {
+      "title": "Part XI - Relations between the Union and the States (Articles 245-300)",
+      "articles": {
+        "Article 245": {
+          "title": "Extent of laws made by Parliament and by the Legislatures of States",
+          "content": "Subject to the provisions of this Constitution, Parliament may make laws for the whole or any part of the territory of India, and the Legislature of a State may make laws for the whole or any part of the State."
+        },
+        "Article 246": {
+          "title": "Subject-matter of laws made by Parliament and by the Legislatures of States",
+          "content": "Notwithstanding anything in clauses (2) and (3), Parliament has exclusive power to make laws with respect to any of the matters enumerated in List I in the Seventh Schedule (Union List)."
+        },
+        "Article 248": {
+          "title": "Residuary powers of legislation",
+          "content": "Parliament has exclusive power to make any law with respect to any matter not enumerated in the Concurrent List or State List."
+        },
+        "Article 249": {
+          "title": "Power of Parliament to legislate with respect to a matter in the State List in the national interest",
+          "content": "Notwithstanding anything in the foregoing provisions of this Chapter, if the Council of States has declared by resolution supported by not less than two-thirds of the members present and voting that it is necessary or expedient in the national interest that Parliament should make laws with respect to any matter enumerated in the State List, it shall be lawful for Parliament to make laws for the whole or any part of the territory of India with respect to that matter while the resolution remains in force."
+        },
+        "Article 356": {
+          "title": "Provisions in case of failure of constitutional machinery in States",
+          "content": "If the President, on receipt of a report from the Governor of a State or otherwise, is satisfied that a situation has arisen in which the government of the State cannot be carried on in accordance with the provisions of this Constitution, the President may by Proclamation assume to himself all or any of the functions of the Government of the State and all or any of the powers vested in or exercisable by the Governor or any body or authority in the State other than the Legislature of the State."
+        }
+      }
+    },
+    "part_xviii_emergency_provisions": {
+      "title": "Part XVIII - Emergency Provisions (Articles 352-360)",
+      "articles": {
+        "Article 352": {
+          "title": "Proclamation of Emergency",
+          "content": "If the President is satisfied that a grave emergency exists whereby the security of India or of any part of the territory thereof is threatened, whether by war or external aggression or armed rebellion, he may, by Proclamation, make a declaration to that effect in respect of the whole of India or of such part of the territory thereof as may be specified in the Proclamation."
+        },
+        "Article 356": {
+          "title": "Provisions in case of failure of constitutional machinery in States",
+          "content": "If the President, on receipt of a report from the Governor of a State or otherwise, is satisfied that a situation has arisen in which the government of the State cannot be carried on in accordance with the provisions of this Constitution, the President may by Proclamation assume to himself all or any of the functions of the Government of the State."
+        },
+        "Article 360": {
+          "title": "Provisions as to financial emergency",
+          "content": "If the President is satisfied that a situation has arisen whereby the financial stability or credit of India or of any part of the territory thereof is threatened, he may by a Proclamation declare a financial emergency."
+        }
+      }
+    },
+    "part_xx_amendment": {
+      "title": "Part XX - Amendment of the Constitution (Article 368)",
+      "articles": {
+        "Article 368": {
+          "title": "Power of Parliament to amend the Constitution and procedure therefor",
+          "content": "Notwithstanding anything in this Constitution, Parliament may in exercise of its constituent power amend by way of addition, variation or repeal any provision of this Constitution in accordance with the procedure laid down in this article."
+        }
+      }
+    }
+  },
+  "keywords": {
+    "fundamental_rights": ["equality", "freedom", "religion", "education", "constitutional remedies", "life", "liberty", "speech", "expression"],
+    "directive_principles": ["social welfare", "economic justice", "education", "health", "environment", "uniform civil code"],
+    "government_structure": ["president", "parliament", "supreme court", "high court", "council of ministers", "prime minister"],
+    "constitutional_concepts": ["federalism", "separation of powers", "judicial review", "amendment", "emergency provisions"]
+  }
+}

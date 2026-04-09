@@ -1,0 +1,170 @@
+{
+  "dataset_name": "Indian Penal Code (IPC)",
+  "description": "Complete dataset of Indian Penal Code sections, punishments, and definitions of crimes",
+  "last_updated": "2025-01-20",
+  "sections": {
+    "general_provisions": {
+      "Section 1": {
+        "title": "Title and extent of operation of the Code",
+        "content": "This Act shall be called the Indian Penal Code, and shall take effect throughout India."
+      },
+      "Section 2": {
+        "title": "Punishment of offences committed within India",
+        "content": "Every person shall be liable to punishment under this Code and not otherwise for every act or omission contrary to the provisions thereof, of which he shall be guilty within India."
+      },
+      "Section 3": {
+        "title": "Punishment of offences committed beyond, but which by law may be tried within, India",
+        "content": "Any person liable, by any Indian law, to be tried for an offence committed beyond India shall be dealt with according to the provisions of this Code for any act committed beyond India in the same manner as if such act had been committed within India."
+      },
+      "Section 4": {
+        "title": "Extension of Code to extra-territorial offences",
+        "content": "The provisions of this Code apply also to any offence committed by any citizen of India in any place without and beyond India."
+      }
+    },
+    "explanations": {
+      "Section 6": {
+        "title": "Definitions in the Code to be understood subject to exceptions",
+        "content": "Throughout this Code every definition of an offence, every penal provision, and every illustration of every such definition or penal provision, shall be understood subject to the exceptions contained in the Chapter entitled 'General Exceptions', though those exceptions are not repeated in such definition, penal provision, or illustration."
+      },
+      "Section 40": {
+        "title": "Offence",
+        "content": "Except in the Chapters and sections mentioned in clauses 2 and 3 of this section, the word 'offence' denotes a thing made punishable by this Code."
+      },
+      "Section 41": {
+        "title": "Special law",
+        "content": "A 'special law' is a law applicable to a particular subject."
+      },
+      "Section 42": {
+        "title": "Local law",
+        "content": "A 'local law' is a law applicable only to a particular part of India."
+      },
+      "Section 43": {
+        "title": "Illegal/Illegally",
+        "content": "The word 'illegal' is applicable to everything which is an offence or which is prohibited by law, or which furnishes ground for a civil action; and a person is said to do a thing 'illegally' when he does that thing which is illegal."
+      }
+    },
+    "offences_against_person": {
+      "Section 299": {
+        "title": "Culpable homicide",
+        "content": "Whoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that he is likely by such act to cause death, commits the offence of culpable homicide.",
+        "punishment": "Imprisonment of either description for a term which may extend to ten years, or with fine, or with both."
+      },
+      "Section 300": {
+        "title": "Murder",
+        "content": "Except in the cases hereinafter excepted, culpable homicide is murder, if the act by which the death is caused is done with the intention of causing death, or with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused.",
+        "punishment": "Death or imprisonment for life, and shall also be liable to fine."
+      },
+      "Section 302": {
+        "title": "Punishment for murder",
+        "content": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+        "punishment": "Death or imprisonment for life, and shall also be liable to fine."
+      },
+      "Section 304": {
+        "title": "Punishment for culpable homicide not amounting to murder",
+        "content": "Whoever commits culpable homicide not amounting to murder shall be punished with imprisonment of either description for a term which may extend to ten years, or with fine, or with both.",
+        "punishment": "Imprisonment of either description for a term which may extend to ten years, or with fine, or with both."
+      },
+      "Section 307": {
+        "title": "Attempt to murder",
+        "content": "Whoever does any act with such intention or knowledge, and under such circumstances that, if he by that act caused death, he would be guilty of murder, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+        "punishment": "Imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+      },
+      "Section 319": {
+        "title": "Hurt",
+        "content": "Whoever causes bodily pain, disease or infirmity to any person is said to cause hurt.",
+        "punishment": "Imprisonment of either description for a term which may extend to one year, or with fine which may extend to one thousand rupees, or with both."
+      },
+      "Section 320": {
+        "title": "Grievous hurt",
+        "content": "The following kinds of hurt only are designated as 'grievous': First - Emasculation. Secondly - Permanent privation of the sight of either eye. Thirdly - Permanent privation of the hearing of either ear. Fourthly - Privation of any limb or joint of the body. Fifthly - Permanent privation of the powers of any limb or joint of the body. Sixthly - Permanent disfiguration of the head or face. Seventhly - Fracture or dislocation of a bone or tooth. Eighthly - Any hurt which endangers life or which causes the sufferer, during the space of twenty days, to be unable to follow his ordinary pursuits.",
+        "punishment": "Imprisonment of either description for a term which may extend to seven years, or with fine, or with both."
+      },
+      "Section 354": {
+        "title": "Assault or criminal force to woman with intent to outrage her modesty",
+        "content": "Whoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment of either description for a term which shall not be less than one year but which may extend to five years, and shall also be liable to fine.",
+        "punishment": "Imprisonment of either description for a term which shall not be less than one year but which may extend to five years, and shall also be liable to fine."
+      },
+      "Section 375": {
+        "title": "Rape",
+        "content": "A man is said to commit 'rape' if he has sexual intercourse with a woman under circumstances falling under any of the six following descriptions: (1) Against her will. (2) Without her consent. (3) With her consent, when her consent has been obtained by putting her or any person in whom she is interested, in fear of death or of hurt. (4) With her consent, when the man knows that he is not her husband and that her consent is given because she believes that he is another man to whom she is or believes herself to be lawfully married. (5) With her consent when, at the time of giving such consent, by reason of unsoundness of mind or intoxication or the administration by him personally or through another of any stupefying or unwholesome substance, she is unable to understand the nature and consequences of that to which she gives consent. (6) With or without her consent, when she is under eighteen years of age.",
+        "punishment": "Rigorous imprisonment of either description for a term which shall not be less than ten years, but which may extend to imprisonment for life, and shall also be liable to fine."
+      }
+    },
+    "offences_against_property": {
+      "Section 378": {
+        "title": "Theft",
+        "content": "Whoever, intending to take dishonestly any moveable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft.",
+        "punishment": "Imprisonment of either description for a term which may extend to three years, or with fine, or with both."
+      },
+      "Section 379": {
+        "title": "Punishment for theft",
+        "content": "Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+        "punishment": "Imprisonment of either description for a term which may extend to three years, or with fine, or with both."
+      },
+      "Section 380": {
+        "title": "Theft in dwelling house, etc.",
+        "content": "Whoever commits theft in any building, tent or vessel, which building, tent or vessel is used as a human dwelling, or used for the custody of property, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+        "punishment": "Imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+      },
+      "Section 392": {
+        "title": "Punishment for robbery",
+        "content": "Whoever commits robbery shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine; and, if the robbery be committed on the highway between sunset and sunrise, the imprisonment may be extended to fourteen years.",
+        "punishment": "Rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine."
+      },
+      "Section 395": {
+        "title": "Punishment for dacoity",
+        "content": "Whoever commits dacoity shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+        "punishment": "Imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine."
+      },
+      "Section 420": {
+        "title": "Cheating and dishonestly inducing delivery of property",
+        "content": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy any valuable security or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+        "punishment": "Imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+      },
+      "Section 463": {
+        "title": "Forgery",
+        "content": "Whoever makes any false document or false electronic record or part of a document or electronic record, with intent to cause damage or injury, to the public or to any person, or to support any claim or title, or to cause any person to part with property, or to enter into any express or implied contract, or with intent to commit fraud or that fraud may be committed, commits forgery.",
+        "punishment": "Imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+      },
+      "Section 465": {
+        "title": "Punishment for forgery",
+        "content": "Whoever commits forgery shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+        "punishment": "Imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+      }
+    },
+    "public_order_offences": {
+      "Section 124A": {
+        "title": "Sedition",
+        "content": "Whoever, by words, either spoken or written, or by signs, or by visible representation, or otherwise, brings or attempts to bring into hatred or contempt, or excites or attempts to excite disaffection towards, the Government established by law shall be punished with imprisonment for life, to which fine may be added, or with imprisonment which may extend to three years, to which fine may be added, or with fine.",
+        "punishment": "Imprisonment for life, to which fine may be added, or with imprisonment which may extend to three years, to which fine may be added, or with fine."
+      },
+      "Section 141": {
+        "title": "Unlawful assembly",
+        "content": "An assembly of five or more persons is designated an 'unlawful assembly', if the common object of the persons composing that assembly is: (1) To overawe by criminal force, or show of criminal force, the Central or any State Government or Parliament or the Legislature of any State, or any public servant in the exercise of the lawful power of such public servant; or (2) To resist the execution of any law, or of any legal process; or (3) To commit any mischief or criminal trespass, or other offence; or (4) By means of criminal force, or show of criminal force, to any person to take or obtain possession of any property, or to deprive any person of the enjoyment of a right of way, or of the use of water or other incorporeal right of which he is in possession or enjoyment, or to enforce any right or supposed right; or (5) By means of criminal force, or show of criminal force, to compel any person to do what he is not legally bound to do, or to omit to do what he is legally entitled to do.",
+        "punishment": "Imprisonment of either description for a term which may extend to six months, or with fine, or with both."
+      },
+      "Section 143": {
+        "title": "Punishment for unlawful assembly",
+        "content": "Whoever is a member of an unlawful assembly, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.",
+        "punishment": "Imprisonment of either description for a term which may extend to six months, or with fine, or with both."
+      },
+      "Section 147": {
+        "title": "Punishment for rioting",
+        "content": "Whoever is guilty of rioting, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+        "punishment": "Imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+      },
+      "Section 153A": {
+        "title": "Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony",
+        "content": "Whoever by words, either spoken or written, or by signs or by visible representations or otherwise, promotes or attempts to promote, on grounds of religion, race, place of birth, residence, language, caste or community or any other ground whatsoever, disharmony or feelings of enmity, hatred or ill-will between different religious, racial, language or regional groups or castes or communities, shall be punished with imprisonment which may extend to three years, or with fine, or with both.",
+        "punishment": "Imprisonment which may extend to three years, or with fine, or with both."
+      }
+    }
+  },
+  "keywords": {
+    "crimes_against_person": ["murder", "culpable homicide", "hurt", "grievous hurt", "assault", "rape", "kidnapping", "abduction"],
+    "crimes_against_property": ["theft", "robbery", "dacoity", "cheating", "forgery", "criminal breach of trust", "mischief"],
+    "public_order": ["sedition", "unlawful assembly", "rioting", "affray", "public nuisance", "criminal intimidation"],
+    "offences_against_state": ["waging war", "sedition", "abetting mutiny", "public servant"],
+    "general_terms": ["intention", "knowledge", "voluntarily", "dishonestly", "fraudulently", "good faith"]
+  }
+}

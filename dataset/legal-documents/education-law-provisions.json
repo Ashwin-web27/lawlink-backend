@@ -1,0 +1,72 @@
+[
+    {
+        "doc_id": "Article_21A",
+        "title": "Constitution of India",
+        "section": "Article 21A",
+        "year": "2002",
+        "content": "Right to Education: The State shall provide free and compulsory education to all children of the age of six to fourteen years in such manner as the State may, by law, determine. This article was inserted by the Constitution (Eighty-sixth Amendment) Act, 2002, making education a fundamental right. It mandates that every child between 6-14 years has the right to receive elementary education in a neighborhood school without paying fees or facing discrimination."
+    },
+    {
+        "doc_id": "Article_45",
+        "title": "Constitution of India",
+        "section": "Article 45",
+        "year": "1950",
+        "content": "Provision for early childhood care and education to children below the age of six years: The State shall endeavour to provide early childhood care and education for all children until they complete the age of six years. This directive principle was amended by the Constitution (Eighty-sixth Amendment) Act, 2002, to focus specifically on early childhood care and education as a foundation for lifelong learning."
+    },
+    {
+        "doc_id": "Article_30",
+        "title": "Constitution of India", 
+        "section": "Article 30",
+        "year": "1950",
+        "content": "Right of minorities to establish and administer educational institutions: (1) All minorities, whether based on religion or language, shall have the right to establish and administer educational institutions of their choice. (2) The State shall not, in granting aid to educational institutions, discriminate against any educational institution on the ground that it is under the management of a minority, whether based on religion or language. This ensures educational autonomy for minority communities while maintaining non-discrimination in state aid."
+    },
+    {
+        "doc_id": "Article_29",
+        "title": "Constitution of India",
+        "section": "Article 29",
+        "year": "1950", 
+        "content": "Protection of interests of minorities: (1) Any section of the citizens residing in the territory of India or any part thereof having a distinct language, script or culture of its own shall have the right to conserve the same. (2) No citizen shall be denied admission into any educational institution maintained by the State or receiving aid out of State funds on grounds only of religion, race, caste, language or any of them. This article protects cultural rights and ensures non-discrimination in educational access."
+    },
+    {
+        "doc_id": "RTE_Act_2009",
+        "title": "Right of Children to Free and Compulsory Education Act",
+        "section": "Section 3",
+        "year": "2009",
+        "content": "Right to free and compulsory education: Every child of the age of six to fourteen years shall have a right to free and compulsory education in a neighbourhood school till completion of elementary education. This Act operationalizes Article 21A and provides the legal framework for implementing free and compulsory education, including provisions for infrastructure, teacher qualifications, and non-discrimination."
+    },
+    {
+        "doc_id": "RTE_Act_Section_12",
+        "title": "Right of Children to Free and Compulsory Education Act",
+        "section": "Section 12(1)(c)",
+        "year": "2009",
+        "content": "Admission of disadvantaged children: For the purposes of this Act, a school specified in sub-clauses (iii) and (iv) of clause (n) of section 2 shall admit in class I, to the extent of twenty-five per cent of the strength of that class, children belonging to weaker section and disadvantaged group in the neighbourhood and provide free and compulsory education till its completion. This provision ensures inclusive education by mandating private schools to reserve seats for economically disadvantaged children."
+    },
+    {
+        "doc_id": "UGC_Act_1956",
+        "title": "University Grants Commission Act",
+        "section": "Section 12",
+        "year": "1956",
+        "content": "General powers and duties of Commission: It shall be the general duty of the Commission to take, in consultation with the Universities or other bodies concerned, all such steps as it may think fit for the promotion and coordination of University education and for the determination and maintenance of standards of teaching, examination and research in Universities. The UGC serves as the apex body for higher education coordination, funding, and quality assurance in India."
+    },
+    {
+        "doc_id": "NEP_2020_Digital",
+        "title": "National Education Policy 2020",
+        "section": "Digital Education",
+        "year": "2020",
+        "content": "Technology use and integration: The appropriate integration of technology into education at all levels will be done in ways that: (i) enable better teaching-learning processes, (ii) support teachers, (iii) help disadvantaged groups of students, (iv) accelerate learning and enable customized and personalized learning, and (v) improve educational access for students with disabilities. This policy emphasizes leveraging technology for inclusive and effective learning while ensuring digital equity."
+    },
+    {
+        "doc_id": "CBSE_Regulations", 
+        "title": "Central Board of Secondary Education Regulations",
+        "section": "Examination Reforms",
+        "year": "2019",
+        "content": "Comprehensive evaluation system: The Board shall conduct examinations and award certificates based on comprehensive evaluation including scholastic and co-scholastic areas. The evaluation system aims to reduce examination pressure, promote holistic development, and assess students on multiple competencies including critical thinking, creativity, and life skills rather than mere factual knowledge retention."
+    },
+    {
+        "doc_id": "Disability_Education_Rights",
+        "title": "Rights of Persons with Disabilities Act",
+        "section": "Section 16 - Right to Education",
+        "year": "2016",
+        "content": "Right to inclusive education: The appropriate Government and local authorities shall ensure that all educational institutions funded or recognized by them provide inclusive education to the children with disabilities and towards that end shall: (a) admit them without discrimination and provide education and opportunities for sports and recreation activities equally with others; (b) make building, campus and various facilities accessible; (c) provide reasonable accommodation according to the individual's requirements; (d) provide necessary support individualized or through support personnel to the child with disability. This ensures educational inclusion and accessibility for children with disabilities."
+    }
+]

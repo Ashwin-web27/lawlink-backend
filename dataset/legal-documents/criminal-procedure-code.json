@@ -1,0 +1,150 @@
+{
+  "dataset_name": "Code of Criminal Procedure (CrPC)",
+  "description": "Complete dataset of Criminal Procedure Code covering procedures of arrest, bail, FIR, trial, and evidence rules",
+  "last_updated": "2025-01-20",
+  "sections": {
+    "fir_and_investigation": {
+      "Section 154": {
+        "title": "Information in cognizable cases",
+        "content": "Every information relating to the commission of a cognizable offence, if given orally to an officer in charge of a police station, shall be reduced to writing by him or under his direction, and be read over to the informant; and every such information, whether given in writing or reduced to writing as aforesaid, shall be signed by the person giving it, and the substance thereof shall be entered in a book to be kept by such officer in such form as the State Government may prescribe in this behalf.",
+        "procedure": "1. Information to be given orally or in writing to officer in charge of police station. 2. If oral, to be reduced to writing. 3. To be read over to informant. 4. To be signed by informant. 5. Substance to be entered in prescribed book (General Diary)."
+      },
+      "Section 155": {
+        "title": "Information as to non-cognizable cases",
+        "content": "When information is given to an officer in charge of a police station of the commission of a non-cognizable offence, he shall enter the substance of such information in a book to be kept by him in such form as the State Government may prescribe in this behalf, and refer the informant to a Magistrate.",
+        "procedure": "1. Information to be entered in prescribed book. 2. Informant to be referred to Magistrate for further action."
+      },
+      "Section 156": {
+        "title": "Police officer's power to investigate cognizable case",
+        "content": "Any officer in charge of a police station may, without the order of a Magistrate, investigate any cognizable case which a court having jurisdiction over the local area within the limits of such station would have power to inquire into or try under the provisions of this Code.",
+        "procedure": "Police can investigate cognizable offences without Magistrate's order within their jurisdiction."
+      },
+      "Section 157": {
+        "title": "Procedure for investigation",
+        "content": "If, from information received or otherwise, an officer in charge of a police station has reason to suspect the commission of an offence which he is empowered under section 156 to investigate, he may proceed in person, or may direct any of his subordinate officers to proceed, to the spot to investigate the facts and circumstances of the case, and, if necessary, to take measures for the discovery and arrest of the offender.",
+        "procedure": "Officer can proceed personally or send subordinate to spot for investigation and arrest if necessary."
+      },
+      "Section 173": {
+        "title": "Report of police officer on completion of investigation",
+        "content": "Every investigation under this Chapter shall be completed without unnecessary delay. As soon as it is completed, the officer in charge of the police station shall forward to a Magistrate empowered to take cognizance of the offence on a police report, a report in the form prescribed by the State Government.",
+        "procedure": "1. Complete investigation without delay. 2. Forward report to competent Magistrate. 3. Report in prescribed form (Charge sheet/Final Report)."
+      }
+    },
+    "arrest_procedures": {
+      "Section 41": {
+        "title": "When police may arrest without warrant",
+        "content": "Any police officer may without an order from a Magistrate and without a warrant, arrest any person: (a) who has been concerned in any cognizable offence, or against whom a reasonable complaint has been made, or credible information has been received, or a reasonable suspicion exists, of his having been so concerned; (b) who has in his possession any implement of housebreaking; (c) who has been proclaimed as an offender under this Code or by order of the State Government; (d) in whose possession anything is found which may reasonably be suspected to be stolen property; (e) who obstructs a police officer while in the execution of his duty; (f) who has escaped, or attempts to escape, from lawful custody; (g) who is reasonably suspected of being a deserter from any of the Armed Forces of the Union.",
+        "procedure": "Police can arrest without warrant in cognizable offences, with stolen property, obstructing police, escaping custody, etc."
+      },
+      "Section 41A": {
+        "title": "Notice of appearance before police officer",
+        "content": "The police officer shall, in all cases where the arrest of a person is not required under the provisions of sub-section (1) of section 41, issue a notice directing the person against whom a reasonable complaint has been made, or credible information has been received, or a reasonable suspicion exists, of his having committed a cognizable offence, to appear before him or at such other place as may be specified in the notice.",
+        "procedure": "Issue notice to appear instead of arrest where arrest not mandatory, for offences punishable with less than 7 years imprisonment."
+      },
+      "Section 50": {
+        "title": "Person arrested to be informed of grounds of arrest",
+        "content": "Every police officer or other person arresting any person without warrant shall forthwith communicate to him the grounds on which the arrest is made.",
+        "procedure": "Grounds of arrest must be communicated immediately to arrested person."
+      },
+      "Section 50A": {
+        "title": "Obligation of person making arrest to inform about the arrest",
+        "content": "Every police officer or other person making any arrest under this Code shall forthwith give information of such arrest and the place where the arrested person is being held, to such of his friends, relatives or such other persons as may be disclosed or nominated by the arrested person for the purpose.",
+        "procedure": "Information about arrest and place of detention must be given to friends/relatives nominated by arrested person."
+      },
+      "Section 56": {
+        "title": "Person arrested to be taken before Magistrate or officer in charge of police station",
+        "content": "A police officer making an arrest without warrant shall, without unnecessary delay and subject to the provisions herein contained as to bail, take or send the person arrested before a Magistrate having jurisdiction in the case, or before the officer in charge of a police station.",
+        "procedure": "Arrested person to be produced before Magistrate or police station officer without delay."
+      },
+      "Section 57": {
+        "title": "Person arrested not to be detained more than twenty-four hours",
+        "content": "No police officer shall detain in custody a person arrested without warrant for a longer period than under all the circumstances of the case is reasonable, and such period shall not, in the absence of a special order of a Magistrate under section 167, exceed twenty-four hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate's Court.",
+        "procedure": "Maximum 24 hours detention without Magistrate's order (excluding travel time to court)."
+      }
+    },
+    "bail_provisions": {
+      "Section 436": {
+        "title": "In what cases bail to be taken",
+        "content": "When any person other than a person accused of a non-bailable offence is arrested or detained without warrant by an officer in charge of a police station, or appears or is brought before a Court, he may be released on bail by such officer or Court, as the case may be.",
+        "procedure": "Bail is generally available for bailable offences as a matter of right."
+      },
+      "Section 437": {
+        "title": "When bail may be taken in case of non-bailable offence",
+        "content": "When any person accused of a non-bailable offence is arrested or detained without warrant by an officer in charge of a police station, or appears or is brought before a Court, he may be released on bail, but he shall not be so released if there appear reasonable grounds for believing that he has been guilty of an offence punishable with death or imprisonment for life.",
+        "procedure": "Bail may be granted in non-bailable offences except for offences punishable with death or life imprisonment, subject to conditions."
+      },
+      "Section 438": {
+        "title": "Direction for grant of bail to person apprehending arrest",
+        "content": "When any person has reason to believe that he may be arrested on an accusation of having committed a non-bailable offence, he may apply to the High Court or the Court of Session for a direction under this section that in the event of such arrest, he shall be released on bail.",
+        "procedure": "Anticipatory bail can be sought from High Court or Sessions Court before arrest for non-bailable offences."
+      },
+      "Section 439": {
+        "title": "Special powers of High Court or Court of Session regarding bail",
+        "content": "A High Court or Court of Session may direct that any person accused of an offence and in custody be released on bail, and may impose any conditions which it considers necessary for such release.",
+        "procedure": "High Court and Sessions Court have special powers to grant bail with conditions even in cases where lower courts cannot grant bail."
+      }
+    },
+    "trial_procedures": {
+      "Section 190": {
+        "title": "Cognizance of offences by Magistrates",
+        "content": "Subject to the provisions of this Chapter, any Magistrate of the first class, and any Magistrate of the second class specially empowered in this behalf under sub-section (2), may take cognizance of any offence upon receiving a complaint of facts which constitute such offence, or upon a police report of such facts, or upon information received from any person other than a police officer, or upon his own knowledge or suspicion, that such offence has been committed.",
+        "procedure": "Magistrate can take cognizance through: 1. Complaint 2. Police report 3. Information from non-police person 4. Own knowledge"
+      },
+      "Section 207": {
+        "title": "Supply of copies of statements and documents to accused in certain cases",
+        "content": "In any case where the proceeding has been instituted on a police report, the Magistrate shall without delay furnish to the accused, free of cost, a copy of each of the following: (a) the police report; (b) the first information report recorded under section 154; (c) the statements recorded under sub-section (3) of section 161 of all the persons whom the prosecution proposes to examine as its witnesses.",
+        "procedure": "In police report cases, accused entitled to free copies of police report, FIR, and witness statements."
+      },
+      "Section 239": {
+        "title": "When accused shall be discharged",
+        "content": "If, upon consideration of the record of the case and the documents submitted therewith, and after giving the accused and the prosecution an opportunity of being heard in the matter, the Magistrate considers the charge against the accused to be groundless, he shall discharge the accused, and record his reasons for so doing.",
+        "procedure": "Magistrate must discharge accused if charge found groundless after hearing both parties."
+      },
+      "Section 240": {
+        "title": "Framing of charge",
+        "content": "If, after such consideration and hearing as aforesaid, the Magistrate is of opinion that there is ground for presuming that the accused has committed an offence triable under this Chapter, he shall frame in writing a charge against the accused.",
+        "procedure": "If prima facie case exists, Magistrate must frame written charge against accused."
+      },
+      "Section 313": {
+        "title": "Power to examine the accused",
+        "content": "For the purpose of enabling the accused personally to explain any circumstances appearing in the evidence against him, the Court may, at any stage of any inquiry or trial, without administering an oath, question the accused generally on the case.",
+        "procedure": "Court can question accused at any stage to explain circumstances appearing in evidence against him."
+      }
+    },
+    "evidence_and_witnesses": {
+      "Section 161": {
+        "title": "Examination of witnesses by police",
+        "content": "Any police officer making an investigation under this Chapter, or any police officer not below such rank as the State Government may, by general or special order, prescribe in this behalf, may examine orally any person supposed to be acquainted with the facts and circumstances of the case.",
+        "procedure": "Police can examine witnesses orally during investigation; statements not to be signed by witness."
+      },
+      "Section 164": {
+        "title": "Recording of confessions and statements",
+        "content": "Any Metropolitan Magistrate or Judicial Magistrate may, whether or not he has jurisdiction in the case, record any confession or statement made to him in the course of an investigation under this Chapter or under any other law for the time being in force, or at any time afterwards before the commencement of the inquiry or trial.",
+        "procedure": "Judicial Magistrate can record confession/statement during investigation or before trial begins."
+      },
+      "Section 165": {
+        "title": "Recording of confession by Magistrate",
+        "content": "Before recording any such confession, the Magistrate shall explain to the person making it that he is not bound to make a confession and that, if he does so, it may be used as evidence against him; and the Magistrate shall not record any such confession unless, upon questioning the person making it, he has reason to believe that it is being made voluntarily.",
+        "procedure": "Magistrate must warn about consequences and ensure confession is voluntary before recording."
+      },
+      "Section 311": {
+        "title": "Power to summon material witness, or examine person present",
+        "content": "Any Court may, at any stage of any inquiry, trial or other proceeding under this Code, summon any person as a witness, or examine any person in attendance, though not summoned as a witness, or recall and re-examine any person already examined.",
+        "procedure": "Court has power to summon witnesses, examine persons present, or recall witnesses at any stage."
+      },
+      "Section 319": {
+        "title": "Power to proceed against other persons appearing to be guilty of offence",
+        "content": "Where, in the course of any inquiry into, or trial of, an offence, it appears from the evidence that any person not being the accused has committed any offence for which such person could be tried together with the accused, the Court may proceed against such person for the offence which he appears to have committed.",
+        "procedure": "Court can proceed against additional persons found guilty during trial if they can be tried together with accused."
+      }
+    }
+  },
+  "keywords": {
+    "investigation": ["FIR", "cognizable", "non-cognizable", "investigation", "police report", "charge sheet", "final report"],
+    "arrest": ["warrant", "arrest", "detention", "custody", "24 hours", "grounds of arrest", "inform relatives"],
+    "bail": ["bailable", "non-bailable", "anticipatory bail", "conditions", "sureties", "bond"],
+    "trial": ["cognizance", "charge", "discharge", "acquittal", "conviction", "summons", "warrant"],
+    "evidence": ["witness", "confession", "statement", "examination", "cross-examination", "material witness"],
+    "courts": ["magistrate", "sessions court", "high court", "jurisdiction", "competent court"]
+  }
+}
